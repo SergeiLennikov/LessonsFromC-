@@ -51,49 +51,49 @@
 // }
 
 
-// while(true)
-// {
-//     Console.Clear();
-//     double numbir1, numbir2, result1;
-//     char sumv;
+while(true)
+{
+    Console.Clear();
+    double numbir1, numbir2, result1;
+    char sumv;
 
-//     try
-//     {
-//     System.Console.Write("Введите число: ");
-//     numbir1 = double.Parse(Console.ReadLine());
+    try
+    {
+    System.Console.Write("Введите число: ");
+    numbir1 = double.Parse(Console.ReadLine());
 
-//     System.Console.Write("Выберите операцию +, -, *, /: \t");
-//     sumv = char.Parse(Console.ReadLine());
+    System.Console.Write("Выберите операцию +, -, *, /: \t");
+    sumv = char.Parse(Console.ReadLine());
 
-//     System.Console.Write("Введите число: ");
-//     numbir2 = double.Parse(Console.ReadLine());
-//     }
-//     catch (Exception)
-//     {
-//         System.Console.WriteLine("Следуй инструкции Еблан");
-//         Console.ReadLine();
-//         continue;
-//     }
+    System.Console.Write("Введите число: ");
+    numbir2 = double.Parse(Console.ReadLine());
+    }
+    catch (Exception)
+    {
+        System.Console.WriteLine("Следуй инструкции Еблан");
+        Console.ReadLine();
+        continue;
+    }
     
-//     if (sumv == '+')
-//     {
-//     result1 = numbir1 + numbir2;
-//     System.Console.WriteLine("Ответ: " + result1);
-//     }
-//     else if (sumv == '-')
-//     {
-//     result1 = numbir1 - numbir2;
-//     System.Console.WriteLine("Ответ: " + result1);
-//     }
-//     else if (sumv == '*')
-//     {
-//     result1 = numbir1 * numbir2;
-//     System.Console.WriteLine("Ответ: " + result1);
-//     }
-//     else if (sumv == '/')
-//     {
-//     result1 = numbir1 / numbir2;
-//     System.Console.WriteLine("Ответ: " + result1);
-//     }
-//     Console.ReadLine();
-// }
+    if (sumv == '+')
+    {
+    result1 = numbir1 + numbir2;
+    System.Console.WriteLine("Ответ: " + result1);
+    }
+    else if (sumv == '-')
+    {
+    result1 = numbir1 - numbir2;
+    System.Console.WriteLine("Ответ: " + result1);
+    }
+    else if (sumv == '*')
+    {
+    result1 = numbir1 * numbir2;
+    System.Console.WriteLine("Ответ: " + result1);
+    }
+    else if (sumv == '/')
+    {
+    result1 = numbir1 / numbir2;
+    System.Console.WriteLine("Ответ: " + result1);
+    }
+    Console.ReadLine();
+}
