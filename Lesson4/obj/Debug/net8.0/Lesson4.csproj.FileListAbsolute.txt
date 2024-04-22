@@ -1,0 +1,15 @@
+C:\Users\lenni\Desktop\LessonsFromC#\Lesson4\bin\Debug\net8.0\Lesson4.exe
+C:\Users\lenni\Desktop\LessonsFromC#\Lesson4\bin\Debug\net8.0\Lesson4.deps.json
+C:\Users\lenni\Desktop\LessonsFromC#\Lesson4\bin\Debug\net8.0\Lesson4.runtimeconfig.json
+C:\Users\lenni\Desktop\LessonsFromC#\Lesson4\bin\Debug\net8.0\Lesson4.dll
+C:\Users\lenni\Desktop\LessonsFromC#\Lesson4\bin\Debug\net8.0\Lesson4.pdb
+C:\Users\lenni\Desktop\LessonsFromC#\Lesson4\obj\Debug\net8.0\Lesson4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenni\Desktop\LessonsFromC#\Lesson4\obj\Debug\net8.0\Lesson4.AssemblyInfoInputs.cache
+C:\Users\lenni\Desktop\LessonsFromC#\Lesson4\obj\Debug\net8.0\Lesson4.AssemblyInfo.cs
+C:\Users\lenni\Desktop\LessonsFromC#\Lesson4\obj\Debug\net8.0\Lesson4.csproj.CoreCompileInputs.cache
+C:\Users\lenni\Desktop\LessonsFromC#\Lesson4\obj\Debug\net8.0\Lesson4.sourcelink.json
+C:\Users\lenni\Desktop\LessonsFromC#\Lesson4\obj\Debug\net8.0\Lesson4.dll
+C:\Users\lenni\Desktop\LessonsFromC#\Lesson4\obj\Debug\net8.0\refint\Lesson4.dll
+C:\Users\lenni\Desktop\LessonsFromC#\Lesson4\obj\Debug\net8.0\Lesson4.pdb
+C:\Users\lenni\Desktop\LessonsFromC#\Lesson4\obj\Debug\net8.0\Lesson4.genruntimeconfig.cache
+C:\Users\lenni\Desktop\LessonsFromC#\Lesson4\obj\Debug\net8.0\ref\Lesson4.dll
