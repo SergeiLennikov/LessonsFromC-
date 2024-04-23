@@ -68,3 +68,18 @@
 //     }
 //     Console.WriteLine();
 // }
+
+// Console.Write("Введите высоту прямоугольника");
+// int height1 = int.Parse(Console.ReadLine());
+
+// Console.Write("Введите Ширину прямоугольника");
+// int width = int.Parse(Console.ReadLine());
+
+// for (int i = 0; i < height1; i++)
+// {
+//     for (int j = 0; j < width; j++)
+//     {
+//         Console.Write("#");
+//     }
+//     Console.WriteLine();
+// }
